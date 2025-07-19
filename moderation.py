@@ -5,7 +5,7 @@ import os, json, re
 from datetime import datetime, timedelta
 import asyncio
 
-MODLOG_PATH = "./Database/Moderation"
+MODLOG_PATH = "./Moderation"
 STAFF_ROLE_ID = 1217757004630855792
 
 
