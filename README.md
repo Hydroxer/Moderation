@@ -6,13 +6,14 @@ You can change your staff Role ID in the Header, only Role ID you have pasted th
 
 To add moderation.py into your Bot as a Cog.
 1. Download the zip file or use
-2. Extract the zip into your Bot's Project Directory.
 ```sudo
 git clone https://github.com/Hydroxer/Moderation.git
-```
-3. Create a folder named Cogs in your project file or inside your directory.
-4. Add Moderation.py into your Cogs folder.
-5. Paste the code provided below in your main file (i.e. Main.py)
+``` 
+3. Extract the zip into your Bot's Project Directory.
+
+4. Create a folder named Cogs in your project file or inside your directory.
+5. Add Moderation.py into your Cogs folder.
+6. Paste the code provided below in your main file (i.e. Main.py)
 
 ```
 async def load_all_extensions():
