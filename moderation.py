@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 import asyncio
 
 MODLOG_PATH = "./Moderation"
-STAFF_ROLE_ID = 1217757004630855792
+STAFF_ROLE_ID = 123456789012345678 # <-- Change the Staff/Moderator role ID here
 
 
 def ensure_guild_directory(guild_id):
