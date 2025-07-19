@@ -5,7 +5,6 @@ To add moderation.py into your Bot as a Cog.
 1. Create a foler named Cogs in your project file or inside your directory.
 2. Add Moderation.py into your Cogs folder.
 3. Paste the code provided below in your main file (i.e. Main.py)
-4. 
 
 async def load_all_extensions():
     for filename in os.listdir('./cogs'):
