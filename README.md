@@ -11,7 +11,7 @@ git clone https://github.com/Hydroxer/Moderation.git
 ``` 
 3. Extract the zip into your Bot's Project Directory.
 
-4. Create a folder named **Cogs** in inside project file or inside your directory.
+4. Create a folder named **Cogs** inside project file or inside your directory.
 5. Add **Moderation.py** into your Cogs folder.
 6. Paste the code provided below in your main file (i.e. Main.py)
 
@@ -27,6 +27,7 @@ async def load_all_extensions():
 ```
 
 Please add the code at the ending of the file, above the Run Fuction.
+
 6. Create a Folder named named **Moderations** for Storing the Modlogs.
 
 *Only usable for Python and Discord.py*
