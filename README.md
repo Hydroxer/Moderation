@@ -66,7 +66,6 @@ async def load_all_extensions():
 Then, call it before starting the bot:
 
 ```python
-import asyncio
 
 asyncio.run(load_all_extensions())
 bot.run("YOUR_TOKEN")
